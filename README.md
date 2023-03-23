@@ -35,4 +35,11 @@ Simple simulation can be run with the following command.
 ```
 sumo-gui --net-file scenario/itabashi/map/ToST_itabashi.net.xml --route-files scenario/itabashi/trip/ToST_0700_1900.trips.xml
 ```
+The behavior after 19:00 is not taken into account.
+And it is assumed to run with the following options.
+Further option is [here](https://sumo.dlr.de/docs/sumo.html).
+- --ignore-junction-blocker 15
+- --device.rerouting.probability 1.0
+- --device.rerouting.period 300
+
 Please refer to the [SUMO wiki](https://sumo.dlr.de/docs/index.html) for further detailed simulations and data collecting methods.
