@@ -14,5 +14,9 @@
     </routing>
     <processing>
         <ignore-junction-blocker value="15"/>
+        <collision.action value="remove"/>
     </processing>
+    <report>
+        <xml-validation value="never"/>
+    </report>
 </configuration>

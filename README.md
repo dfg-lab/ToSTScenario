@@ -36,7 +36,8 @@ sumo-gui \
     --end 68400 \
     --ignore-junction-blocker 15 \
     --device.rerouting.probability 1.0 \
-    --device.rerouting.period 300
+    --device.rerouting.period 300 \
+    --collision.action remove
 ```
 
 The activity after 7:00 p.m. is not taken into account in the scenario.
