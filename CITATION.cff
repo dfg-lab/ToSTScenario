@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use the ToST scenario, please cite it as below."
+authors:
+  - family-names: "Yamazaki"
+    given-names: "Yuji"
+  - family-names: "Tamura"
+    given-names: "Yasumasa"
+    orcid: "https://orcid.org/0000-0001-5406-1966"
+  - family-names: "Défago"
+    given-names: "Xavier"
+    orcid: "https://orcid.org/0000-0002-2377-205X"
+title: "ToSTScenario"
+license: MIT
+version: 1.0.0
+repository-code: "https://gitlab.com/dfg-lab/ToSTScenario"
+type: data
+url: "https://gitlab.com/dfg-lab/ToSTScenario"
+date-released: 2023-03-26
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Yamazaki"
+      given-names: "Yuji"
+    - family-names: "Tamura"
+      given-names: "Yasumasa"
+      orcid: "https://orcid.org/0000-0001-5406-1966"
+    - family-names: "Défago"
+      given-names: "Xavier"
+      orcid: "https://orcid.org/0000-0002-2377-205X"
+    - family-names: "Javanmardi"
+      given-names: "Ehsan"
+      orcid: "https://orcid.org/0000-0003-0337-115X"
+    - family-names: "Tsukada"
+      given-names: "Manabu"
+      orcid: "https://orcid.org/0000-0001-8045-3939"
+  title: "ToST: Tokyo SUMO traffic scenario"
+  year: 2023
+  collection-title: "Proceedings of the 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)"
+  collection-doi: ""
+  conference:
+    name: The 26th IEEE International Conference on Intelligent Transportation Systems (ITSC 2023)
+    location: Euskalduna Conference Centre
+    city: Bilbao
+    region: Bizkaia
+    country: ES
+  date-start: 2023-09-24
+  date-end: 2023-09-28
+  start: 1
+  end: 8
