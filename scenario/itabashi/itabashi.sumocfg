@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+    <input>
+        <net-file value="map/ToST_itabashi.net.xml"/>
+        <route-files value="trip/ToST_0700_1900.trips.xml"/>
+    </input>
+    <time>
+        <begin value="25200"/>
+        <end value="68400"/>
+    </time>
+    <routing>
+        <device.rerouting.probability value="1.0"/>
+        <device.rerouting.period value="300"/>
+    </routing>
+    <processing>
+        <ignore-junction-blocker value="15"/>
+        <collision.action value="remove"/>
+    </processing>
+    <report>
+        <xml-validation value="never"/>
+    </report>
+</configuration>
