@@ -6,7 +6,7 @@ ToST scenario is a realistic open traffic scenario in a district of Tokyo, Japan
 The scenario is designed for SUMO (Simulator of Urban MObility) traffic simulator.
 
 The scenario includes a map data and 12-hour traffic demand for the Itabashi ward, a residential district of Tokyo.
-The map data provides the road network of 33.22 km${}^2$, originally exported from [OpenStreetMap](https://openstreetmap.org).
+The map data provides the road network of 33.22 $\mathrm{km}^2$, originally exported from [OpenStreetMap](https://openstreetmap.org).
 The traffic demand includes 298,310 normal vehicles from 7:00 a.m. to 7:00 p.m.
 
 ![Map](Map.png)
