@@ -1,9 +1,11 @@
 # Tokyo SUMO Traffic(ToST) Scenario
+[![License: MIT](https://img.shields.io/github/license/dfg-lab/ToSTScenario?style=flat)](LICENSE)
+
 This project is licensed under the terms of the MIT license.
 
 Over and above the legal restrictions imposed by this license, if you use this scenario for an academic publication then you are obliged to provide proper attribution.
 The reference for the paper is provided in the section of [publication](#publication).
-The first one (ITSC paper) is preferred as a citation for academic publications.
+The first one (ITSC paper) is preferable as a citation for academic publications.
 
 ## Overview
 ToST scenario is a realistic open traffic scenario in a district of Tokyo, Japan, for a 12-hour period.
